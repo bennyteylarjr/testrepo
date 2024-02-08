@@ -1,0 +1,35 @@
+IBM Data Science Professional Certificate
+Learning Logs
+linux early 2000s
+2005 linux changed to fall free
+replacement source version control system
+xtics - non-linear development
+-distributed development 
+compatibility with existing systems and protocols
+cryptographic authentication of history
+pluggable merge strategies
+
+whats special about git repository model
+distributed version control
+track source code
+coordinates among programmers
+
+what is git
+distributed version control system to track changes to content, provide central point for collaboration, allows for centralized administration
+teams have controlled access scope
+local copy of full development history
+each developer ca act as a hub
+the main branch should always correspond to deployable code
+teams integrate changes
+
+github
+online hosting service
+hosted by a subsidiary of microsoft
+
+a repository
+a data stricture for storing documents including application source code 
+it can track and maintain version control
+
+Gitlab is a devops platform delivered as a single application
+provides access to git repositories and provides source code management 
+allows collaboration, work from a local copy, brach and merge, streamline testing and delivery with continuous integration and continuous delivery CI/CD
